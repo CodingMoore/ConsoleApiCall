@@ -1,16 +1,19 @@
 ﻿using System;
 using System.Threading.Tasks;
 using RestSharp;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace ApiTest
 {
   class Program
   {
-    static void Main()
+    static void Main(string[] args)
     {
       var apiCallTask = ApiHelper.ApiCall("Tp75SyHAcKROR2bKnGs9SBCCQiaHqiTr");
       var result = apiCallTask.Result;
-      Console.WriteLine(result);
+      JObject jsonResponse = JsonConvert.DeserializeObject<JObject>(result);
+      Console.WriteLine(jsonResponse["results"]);
     }
   }
 
