@@ -1,0 +1,11 @@
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\bin\Debug\netcoreapp2.2\ConsoleApiCall.Solution.deps.json
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\bin\Debug\netcoreapp2.2\ConsoleApiCall.Solution.runtimeconfig.json
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\bin\Debug\netcoreapp2.2\ConsoleApiCall.Solution.runtimeconfig.dev.json
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\bin\Debug\netcoreapp2.2\ConsoleApiCall.Solution.dll
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\bin\Debug\netcoreapp2.2\ConsoleApiCall.Solution.pdb
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\obj\Debug\netcoreapp2.2\ConsoleApiCall.Solution.csprojAssemblyReference.cache
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\obj\Debug\netcoreapp2.2\ConsoleApiCall.Solution.csproj.CoreCompileInputs.cache
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\obj\Debug\netcoreapp2.2\ConsoleApiCall.Solution.AssemblyInfoInputs.cache
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\obj\Debug\netcoreapp2.2\ConsoleApiCall.Solution.AssemblyInfo.cs
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\obj\Debug\netcoreapp2.2\ConsoleApiCall.Solution.dll
+C:\Users\Randel\epicodus\c#_projects\ConsoleApiCall\obj\Debug\netcoreapp2.2\ConsoleApiCall.Solution.pdb

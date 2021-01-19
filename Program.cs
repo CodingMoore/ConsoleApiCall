@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Threading.Tasks;
 using RestSharp;
 
@@ -8,7 +8,7 @@ namespace ApiTest
   {
     static void Main()
     {
-      var apiCallTask = ApiHelper.ApiCall("[YOUR-API-KEY-HERE]");
+      var apiCallTask = ApiHelper.ApiCall("Tp75SyHAcKROR2bKnGs9SBCCQiaHqiTr");
       var result = apiCallTask.Result;
       Console.WriteLine(result);
     }
